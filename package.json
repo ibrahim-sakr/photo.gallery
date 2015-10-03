@@ -1,0 +1,12 @@
+{
+    "name": "Lens",
+    "version": "1.0.0",
+    "main": "index.html",
+    "icon":"lens.png",
+    "window": {
+        "toolbar": false
+    },
+    "dependencies": {
+        "mime": "^1.3.4"
+    }
+}
